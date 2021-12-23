@@ -1,0 +1,143 @@
+
+/* import de fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Bebas+Neue&family=Comfortaa:wght@500&family=Dancing+Script&family=Indie+Flower&family=Lobster&family=Noto+Sans:ital@1&family=Patrick+Hand&family=Permanent+Marker&family=Roboto:wght@100&family=Special+Elite&display=swap');
+
+
+/* estilos de navbar */
+.navbar{
+    background-color: rgb(149,1,1) !important;
+}
+
+.nav-link{
+    color:blanchedalmond !important;
+    font-family: 'Alata', sans-serif;
+    font-size: 22px;
+}
+
+.navbar-brand{
+    color: white !important;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px
+}
+
+.btn{
+    font-family: 'Alata', sans-serif;
+}
+
+.form-control{
+    font-family: 'Alata', sans-serif;
+}
+
+/* Fin Estilos Navbar */
+
+/* ESTILOS BODY */
+.bodyIndex{
+    background-color:black;
+    height: 100%;
+    width: 100%;
+}
+
+.bodySeccion4{
+    background-color:black;
+    height: 100%;
+    width: 100%;
+}
+
+/* ESTILOS FOOTER */
+
+footer{
+    height: 100%;
+    width: 100%;
+    margin-top: 20px ;
+    background-color: rgb(3, 19, 31);
+    color: beige;
+    display: flex;
+    justify-content:space-around;
+}
+
+.titulofooter{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.filasfooter{
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: thistle;
+}
+
+.imagenesFooter{
+    background-size: 10px;
+    width: 18px;
+}
+
+/* FIN ESTILOS FOOTER */
+
+/* ESTILOS INDEX */
+
+/* estilos de imagenes de Carousel */
+.corazones{
+    height: 500px;
+}
+
+.mango{
+    height: 500px;
+}
+.ramasLeche{
+    height: 500px;
+}
+
+/* texto de img de bombones */
+.parrafo1{
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-size: 48px;
+    margin: 70px;
+    text-align: center;
+}
+
+/* texto de video de muestra */
+.parrafo2{
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-size: 38px;
+    margin: 70px;
+    text-align: center;}
+
+/* texto antes del footer */
+.parrafo3{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+    margin: 70px;
+    text-align: center;
+}
+
+
+/* ESTILOS SECCION 4 */
+
+/* titulo "¡Tu opinión nos importa!" */
+h2{
+    font-size: 40px;
+    font-family: 'Comfortaa', cursive;
+    color: hotpink;
+    padding-top: 40px;
+}
+
+/* estilos de subtítulo */
+.infoQuejas{
+    color: blanchedalmond;
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+/* estilos texto "Email" y "Escribe aqui el motivo de tu consulta" */
+.form-group{
+    color: blanchedalmond;
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+}
