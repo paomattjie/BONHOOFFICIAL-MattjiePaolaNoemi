@@ -141,3 +141,130 @@ h2{
     font-family: 'Alata', sans-serif;
     font-size: 20px;
 }
+
+/* MEDIA QUERIES */
+@media (max-width:720px){
+    .parrafo1{
+        font-size: 45px;
+    }
+
+    .parrafo2{
+        font-size: 32px;
+    }
+
+    .parrafo3{
+        font-size: 42px;
+    }
+
+    .titulofooter{
+        font-size: 25px;
+    }
+     .filasfooter{
+         font-size: 16px;
+     }
+}
+
+@media (max-width:560px){
+    .parrafo1{
+        font-size: 42px;
+    }
+
+    .parrafo2{
+        font-size: 28px;
+    }
+
+    .parrafo3{
+        font-size: 38px;
+    }
+
+    .titulofooter{
+        font-size: 21px;
+    }
+     .filasfooter{
+         font-size: 14px;
+     }
+
+    h2{
+        font-size: 37px;
+    }
+}
+
+@media (max-width:482px){
+    .parrafo1{
+        font-size: 38px;
+    }
+
+    .parrafo2{
+        font-size: 25px;
+    }
+
+    .parrafo3{
+        font-size: 35px;
+    }
+
+    .titulofooter{
+        font-size: 18px;
+    }
+     .filasfooter{
+         font-size: 11px;
+    }
+
+     h2{
+        font-size: 34px;
+    }
+}
+
+@media (max-width:421px){
+    .parrafo1{
+        font-size: 35px;
+    }
+
+    .parrafo2{
+        font-size: 22px;
+    }
+
+    .parrafo3{
+        font-size: 32px;
+    }
+
+    .titulofooter{
+        font-size: 15px;
+    }
+     .filasfooter{
+         font-size: 9px;
+     }
+}
+
+@media (max-width:350px){
+    .parrafo1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 32px;
+    }
+}
+
+@media (max-width:320px){
+    .parrafo1{
+        font-size: 28px;
+    }
+
+    .parrafo3{
+        font-size: 27px;
+    }
+
+    .titulofooter{
+        font-size: px;
+    }
+     .filasfooter{
+         font-size: px;
+     }
+
+     .imagenesfooter{
+         background-size: 8px;
+         width: 10px;
+     }
+     h2{
+        font-size: 30px;
+    }
+}
